@@ -1,0 +1,5 @@
+venv/
+cnn_env/
+__pycache__/
+*.pyc
+temp_eye.jpg
